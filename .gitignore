@@ -1,0 +1,24 @@
+# PlatformIO build artifacts
+.pio/
+
+# VS Code project configuration
+.vscode/
+
+# Compiled objects and binaries
+*.o
+*.bin
+*.elf
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Private local files
+AGENTS.md
+docs/devlog.md
+*.bak
+
